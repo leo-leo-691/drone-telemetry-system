@@ -1,4 +1,4 @@
-🚁 Drone Navigator’s Telemetry System
+#🚁 Drone Navigator’s Telemetry System
 🔍 Object Detection for Rescue Operations
 
 An AI-powered real-time drone vision system built using YOLOv8 and OpenCV to simulate intelligent search-and-rescue operations.
@@ -49,13 +49,9 @@ Otherwise → 🟢 Scanning Mode
 
 This simulates intelligent drone alignment in rescue missions.
 
-📷 Output
-
-👉 Add your screenshots here (drag & drop images after uploading)
-
 Example: <img width="964" height="1012" alt="Screenshot 4" src="https://github.com/user-attachments/assets/5e4b4566-52db-4e96-89b9-462adf54a78c" />
 
-▶️ How to Run
+#▶️ How to Run
 pip install ultralytics opencv-python numpy
 python drone_detection.py
 📈 Performance
