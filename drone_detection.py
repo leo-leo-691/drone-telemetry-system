@@ -1,6 +1,6 @@
 """
 Project Name: Object Detection for Rescue Operations
-Author: Arindam Gogoi and Krishiv Patel
+Author: Arindam Gogoi
 Model Used: YOLOv8n (yolov8n.pt)
 
 Description:
